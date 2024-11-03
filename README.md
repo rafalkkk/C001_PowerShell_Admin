@@ -1,4 +1,4 @@
-# Course "Python for Administrator"
+# Course "PowerShell for Administrator"
 
 Find more information on [www.kursyonline24.eu](www.kursyonline24.eu)
 
